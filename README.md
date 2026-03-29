@@ -1,1 +1,1 @@
-Attention isn’t all you need. Routing helps.
+Training the thing that replaces the thing that trained it.
